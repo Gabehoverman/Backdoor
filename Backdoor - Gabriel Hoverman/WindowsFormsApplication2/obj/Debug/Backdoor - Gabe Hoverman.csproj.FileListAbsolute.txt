@@ -1,0 +1,3 @@
+C:\Users\GabeHoverman\Documents\Visual Studio 2015\Projects\Backdoor - Gabriel Hoverman\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\GabeHoverman\Documents\Visual Studio 2015\Projects\Backdoor - Gabriel Hoverman\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\GabeHoverman\Documents\Visual Studio 2015\Projects\Backdoor - Gabriel Hoverman\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
